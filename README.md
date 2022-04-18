@@ -1,1 +1,1 @@
-# Digital-Timer
+# Digital Timer
